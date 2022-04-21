@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Aspirin",
+    "category": "Cold",
+    "type": "E",
+    "price": 10,
+    "refundable": false
+  },
+  {
+    "name": "Crocin",
+    "category": "Eyes",
+    "type": "D",
+    "price": 20,
+    "refundable": true
+  },
+  {
+    "name": "Vitamin C",
+    "category": "Vitamin",
+    "type": "E",
+    "price": 10,
+    "refundable": false
+  },
+  {
+    "name": "Paracetamol",
+    "category": "Skin",
+    "type": "E",
+    "price": 30,
+    "refundable": false
+  },
+  {
+    "name": "Vicks",
+    "category": "Gastric",
+    "type": "C",
+    "price": 40,
+    "refundable": true
+  },
+  {
+    "name": "Diclofenac",
+    "category": "Cancer",
+    "type": "A",
+    "price": 50,
+    "refundable": true
+  },
+  {
+    "name": "Insulin",
+    "category": "Diabetes",
+    "type": "B",
+    "price": 80,
+    "refundable": true
+  }
+]
