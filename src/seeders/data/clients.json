@@ -1,0 +1,47 @@
+[
+  {
+    "email": "leanne@cnss.net",
+    "firstname": "Leanne",
+    "lastname": "Graham",
+    "birthdate": "1991-01-01",
+    "phone": "1-770-736-8031",
+    "address": "Kulas Light, Apt. 556, 92998-3874",
+    "city": "Gwenborough"
+  },
+  {
+    "email": "ervin@cnss.net",
+    "firstname": "Ervin",
+    "lastname": "Howell",
+    "birthdate": "1991-01-01",
+    "phone": "010-692-6593",
+    "address": "Victor Plains, Suite 879, 90566-7771",
+    "city": "Wisokyburgh"
+  },
+  {
+    "email": "clementine@cnss.net",
+    "firstname": "Clementine",
+    "lastname": "Bauch",
+    "birthdate": "1991-01-01",
+    "phone": "1-463-123-4447",
+    "address": "Douglas Extension, Suite 847, 59590-4157",
+    "city": "McKenziehaven"
+  },
+  {
+    "email": "patricia@cnss.net",
+    "firstname": "Patricia",
+    "lastname": "Lebsack",
+    "birthdate": "1991-01-01",
+    "phone": "493-170-9623",
+    "address": "Hoeger Mall, Apt. 692, 53919-4257",
+    "city": "South Elvis"
+  },
+  {
+    "email": "kurtis@cnss.net",
+    "firstname": "Kurtis",
+    "lastname": "Weissnat",
+    "birthdate": "1991-01-01",
+    "phone": "210-067-6132",
+    "address": "Victor Plains, Suite 280, 58804-1099",
+    "city": "Howemouth"
+  }
+]
