@@ -12,5 +12,6 @@ export interface FileInterface {
   address: string;
   city: string;
   status: 'pending' | 'accepted' | 'rejected';
-  medicine?: Array<Types.ObjectId>;
+  medicines?: Array<Types.ObjectId>;
+  refund: number;
 }

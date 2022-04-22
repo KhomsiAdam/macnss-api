@@ -51,12 +51,16 @@ const FileSchema = new Schema<FileInterface>(
       default: 'pending',
       required: true,
     },
-    medicine: [
+    medicines: [
       {
         type: Schema.Types.ObjectId,
         ref: 'Medicine',
       },
     ],
+    refund: {
+      type: Number,
+      required: true,
+    },
   },
   { timestamps: true },
 );

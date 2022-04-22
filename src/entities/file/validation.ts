@@ -11,11 +11,11 @@ export const createFileSchema = Joi.object({
     .required(),
   phone: Joi.string().required(),
   CIN: Joi.string().required(),
-  client: Joi.string().hex().length(24).required(),
+  client: Joi.required(),
   address: Joi.string().required(),
   city: Joi.string().required(),
-  status: Joi.string().required(),
-  medicine: Joi.array().items(Joi.string().hex().length(24)),
+  medicines: Joi.array().required(),
+  refund: Joi.number().required(),
 });
 
 export const updateFileSchema = Joi.object({
@@ -32,5 +32,5 @@ export const updateFileSchema = Joi.object({
   address: Joi.string(),
   city: Joi.string(),
   status: Joi.string(),
-  medicine: Joi.array().items(Joi.string().hex().length(24)),
+  medicines: Joi.array().items(Joi.string().hex().length(24)),
 });

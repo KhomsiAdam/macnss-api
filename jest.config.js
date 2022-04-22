@@ -12,10 +12,6 @@ module.exports = {
       statements: 0,
     },
   },
-  // modulePaths: ['node_modules', '<rootDir>/src/'],
-  // roots: ['node_modules', '<rootDir>/src/'],
-  // modulePaths: ['node_modules', '<rootDir>/src/'],
-  // moduleDirectories: ['node_modules', 'src'],
   roots: ['<rootDir>/src/'],
   transform: { '^.+\\.ts?$': 'ts-jest' },
   moduleNameMapper: {
